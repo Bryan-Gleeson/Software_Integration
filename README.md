@@ -1,4 +1,4 @@
-# Software_Integration
+# Systems_Integration
 Small custom shell, written in C
 
 Instructions: 
